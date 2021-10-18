@@ -7,7 +7,7 @@ Hola, mi nombre es Santiago, me gusta la tecnología y aprender permanentemente.
 
 <code>
   <p align="center">
-    <img width="80%" src="https://media.istockphoto.com/photos/blue-unique-background-programming-php-on-laptop-computer-screen-picture-id1200069708">
+    <img width="80%" src="https://p4.wallpaperbetter.com/wallpaper/772/405/227/code-javascript-web-development-wallpaper-preview.jpg">
   </p>
 </code>
 
