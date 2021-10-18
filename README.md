@@ -2,7 +2,7 @@
 Full Stack Developer
 </h2>
 <h4 align="center">
-Hola, mi nombre es Santiago Gonzalez Lonzieme, me gusta la tecnología y aprender permanentemente.
+Hola, mi nombre es Santiago Gonzalez Lonzieme, me gusta mucho la programación y los nuevos desafíos.
 </h4>
 
 <code>
