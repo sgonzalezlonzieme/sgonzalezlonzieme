@@ -7,7 +7,7 @@ Hola, mi nombre es Santiago, me gusta la tecnología y aprender permanentemente.
 
 <code>
   <p align="center">
-    <img width="80%" src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+    <img width="80%" src="https://media.istockphoto.com/photos/blue-unique-background-programming-php-on-laptop-computer-screen-picture-id1200069708">
   </p>
 </code>
 
