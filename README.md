@@ -2,7 +2,7 @@
 Full Stack Developer
 </h2>
 <h4 align="center">
-Hola, mi nombre es Santiago Gonzalez Lonzieme, me gusta mucho la programación y los nuevos desafíos. Aquí vas a poder encontrar mis proyectos realizados, grupalmente e individualmente. 
+Hola, mi nombre es Santiago Gonzalez Lonzieme, me gusta mucho la programación y los nuevos desafíos. Acá vas a poder encontrar mis proyectos realizados, grupalmente e individualmente. 
 </h4>
 
 <code>
